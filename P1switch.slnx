@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="P1switch/P1switch.vcxproj" Id="485e61e5-d892-44b5-9438-cc3d82b4b733" />
+</Solution>
